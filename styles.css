@@ -29,10 +29,13 @@ body {
   
   tr {
     height: 20px;
+    
   }
   
   td {
     width: 20px;
+    background: white; 
+    
   }
   
   input[type="number"] {
